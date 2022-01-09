@@ -1,0 +1,50 @@
+*{
+    background-color: rgb(207, 248, 248);
+}
+
+
+
+
+body{
+    text-align: center;
+   
+    /* box-sizing: border-box; */
+    margin-top: 15%;
+
+    }
+button{
+    /* border: 5px solid bisque; */
+    /* border-radius: 10px; */
+    padding: 5px;
+    color: blue;
+    font-size: 20px;
+    border-color: rgb(207, 248, 248);
+    border-radius: 5px;
+}
+
+input {
+    
+    margin: 0.35rem;
+    padding: 0.35rem;
+    border-color: rgb(207, 248, 248);
+    padding: 10px;
+    border: 1px solid  blue;
+}
+
+h2{
+    color: blue;
+    font-size: 40px;
+}
+
+ul{
+    list-style: none;
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+}
+@media (min-width: 500px) {
+    body {
+        background-color: rgb(207, 248, 248);;
+    }
+}
+    
